@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Avocado omelet",
+    "net_carbs_g": 4,
+    "calories": 420,
+    "prep_minutes": 12,
+    "tags": ["ontbijt", "snel", "vegetarisch"]
+  },
+  {
+    "name": "Kip pesto salade",
+    "net_carbs_g": 6,
+    "calories": 510,
+    "prep_minutes": 15,
+    "tags": ["lunch", "proteine"]
+  },
+  {
+    "name": "Zalm met courgette noodles",
+    "net_carbs_g": 7,
+    "calories": 560,
+    "prep_minutes": 20,
+    "tags": ["diner", "omega-3"]
+  },
+  {
+    "name": "Griekse yoghurt met noten",
+    "net_carbs_g": 5,
+    "calories": 300,
+    "prep_minutes": 5,
+    "tags": ["snack", "snel"]
+  }
+]
